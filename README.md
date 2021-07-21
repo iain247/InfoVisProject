@@ -5,3 +5,6 @@ Data can be found at https://www.kaggle.com/varpit94/football-teams-rankings-sta
 
 # Use link below to view data visualisations
 https://iain247.github.io/InfoVisProject/
+
+
+Autors: Iain Ross & Danny Caulwell
