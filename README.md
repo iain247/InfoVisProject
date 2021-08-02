@@ -7,4 +7,4 @@ Data can be found at https://www.kaggle.com/varpit94/football-teams-rankings-sta
 https://iain247.github.io/InfoVisProject/
 
 
-Autors: Iain Ross & Danny Caulwell
+Authors: Iain Ross & Danny Caulwell
